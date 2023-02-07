@@ -6,29 +6,32 @@
     "foreground": "#444",
     "disabledForeground": "#777",
     "icon.foreground": "#888",
-    "widget.shadow": "#00000020",
+    "widget.shadow": "#00000030",
     "errorForeground": "#f00",
 
-    "editorWhitespace.foreground": "#888",
+    "editorWhitespace.foreground": "#ffffff80",
 
 		"editor.background": "#eee",
 		"editor.foreground": "#444",
     "editorCursor.background": "#fff",
     "editorCursor.foreground": "#320",
-    "editor.selectionBackground": "#ddd",
-    "editor.selectionHighlightBorder": "#8888",
-    "editor.selectionHighlightBackground": "#ccc8",
+    "editor.selectionBackground": "#00000020",
+    "editor.selectionHighlightBorder": "#00000020",
+    "editor.selectionHighlightBackground": "#00000010",
     "editor.lineHighlightBackground": "#f0f0f0",
     "editor.lineHighlightBorder": "#8888",
 
-    "editor.findMatchBackground": "#ccc",
-    "editor.findMatchHighlightBackground": "#ccc",
-    "editor.findRangeHighlightBackground": "#ccc",
-    "editor.findMatchHighlightBorder": "#8888",
+		"editorIndentGuide.activeBackground": "#00000040",
+		"editorIndentGuide.background": "#00000010",
+
+    "editor.findMatchBackground": "#00000030",
+    "editor.findMatchHighlightBackground": "#00000010",
+    "editor.findRangeHighlightBackground": "#00000010",
+    "editor.findMatchHighlightBorder": "#00000030",
     "editorOverviewRuler.findMatchForeground": "#ccc",
 
-    "searchEditor.findMatchBackground": "#ccc",
-    "searchEditor.findMatchBorder": "#8888",
+    "searchEditor.findMatchBackground": "#00000010",
+    "searchEditor.findMatchBorder": "#00000030",
 
     "editorLineNumber.foreground": "#ccc",
     "editorLineNumber.activeForeground": "#888",
@@ -63,7 +66,6 @@
 
 		"editorError.foreground": "#e41507",
 		"editorLink.activeForeground": "#2981ca",
-		"editorWhitespace.foreground": "#e8e3df",
 
 		"editorSuggestWidget.selectedBackground": "#fff",
 
@@ -152,6 +154,13 @@
 		"notification.buttonBackground": "#ccc",
 		"notification.buttonForeground": "#444",
 		"notification.buttonHoverBackground": "#ddd",
+
+		"quickInput.background": "#ccc",
+		"quickInput.foreground": "#000",
+		"quickInputList.focusBackground": "#eee",
+		"quickInputList.focusForeground": "#444",
+		"quickInputList.focusIconForeground": "#444",
+		"quickInputTitle.background": "#ccc",
 
     "terminal.border": "#888",
 		"terminal.background": "#ddd",
