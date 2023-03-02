@@ -4,6 +4,11 @@ All notable changes to the "newsprint" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.3
+
+- Reduce border color opacity
+- Add newsprint-c
+
 ## 0.0.2
 
 - Change selection & find match colors more visible
