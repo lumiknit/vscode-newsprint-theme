@@ -29,7 +29,7 @@
       {
         "label": "newsprint-cb",
         "uiTheme": "vs",
-        "path": "./themes/newsprint-c-color-theme.json"
+        "path": "./themes/newsprint-cb-color-theme.json"
       }
     ]
   }
