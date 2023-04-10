@@ -2,7 +2,7 @@
 	"name": "newsprint-c",
   "type": "light",
 	"colors": {
-    "focusBorder": "#874",
+    "focusBorder": "#888",
     "foreground": "#444",
     "disabledForeground": "#777",
     "icon.foreground": "#888",
@@ -11,7 +11,7 @@
 
     "editorWhitespace.foreground": "#ffffff80",
 
-		"editor.background": "#eee",
+		"editor.background": "#f2f2f2",
 		"editor.foreground": "#444",
     "editorCursor.background": "#fff",
     "editorCursor.foreground": "#320",
@@ -81,7 +81,7 @@
 		"titleBar.activeBackground": "#ddd",
 
 		"panel.border": "#b7b7b7",
-		"panel.background": "#ddd",
+		"panel.background": "#e8e8e8",
 
 		"activityBar.border": "#b7b7b7",
 		"activityBar.background": "#ddd",
@@ -89,15 +89,19 @@
     "activityBar.inactiveForeground": "#aaa",
     "activityBarBadge.background": "#666",
     "activityBarBadge.foreground": "#eee",
-    "activityBar.activeBorder": "#000",
+    "activityBar.activeBorder": "#b7b7b7",
+		"activityBar.dropBorder": "#444",
+		"activityBar.activeFocusBorder": "#444",
+		"activityBar.activeBackground": "#e8e8e8",
 
     "sideBar.border": "#b7b7b7",
-		"sideBar.background": "#ddd",
+		"sideBar.background": "#e8e8e8",
 		"sideBar.foreground": "#444",
 		"sideBar.dropBackground": "#eee",
     "sideBarTitle.foreground": "#222",
-    "sideBarSectionHeader.background": "#ccc",
+    "sideBarSectionHeader.background": "#ddd",
     "sideBarSectionHeader.foreground": "#000",
+		"sideBarSectionHeader.border": "#b7b7b7",
 
 		"input.background": "#fff",
 		"input.border": "#8880",
@@ -107,7 +111,7 @@
 		"checkbox.border": "#8880",
 		"checkbox.foreground": "#444",
 
-    "button.background": "#eee",
+    "button.background": "#f2f2f2",
 		"button.hoverBackground": "#fff",
     "button.border": "#b7b7b7",
 		"button.foreground": "#444",
@@ -118,9 +122,9 @@
 		"dropdown.foreground": "#444",
 
 		"list.activeSelectionBackground": "#eee",
-		"list.inactiveSelectionBackground": "#ccc",
+		"list.inactiveSelectionBackground": "#ddd",
 		"list.focusBackground": "#eee",
-		"list.inactiveFocusBackground": "#ccc",
+		"list.inactiveFocusBackground": "#ddd",
 		"list.focusForeground": "#000000",
 		"list.activeSelectionForeground": "#000000",
 		"list.inactiveSelectionForeground": "#000000",
@@ -144,13 +148,13 @@
 
 		"quickInput.background": "#ccc",
 		"quickInput.foreground": "#000",
-		"quickInputList.focusBackground": "#eee",
+		"quickInputList.focusBackground": "#f2f2f2",
 		"quickInputList.focusForeground": "#444",
 		"quickInputList.focusIconForeground": "#444",
 		"quickInputTitle.background": "#ccc",
 
     "terminal.border": "#b7b7b7",
-		"terminal.background": "#ddd",
+		"terminal.background": "#e8e8e8",
 		"terminal.foreground": "#444",
 		"terminalCursor.background": "#ddd",
 		"terminalCursor.foreground": "#444",
