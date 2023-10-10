@@ -4,6 +4,10 @@ All notable changes to the "newsprint" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.8
+
+- Update newsprint theme based on newsprint-c
+
 ## 0.0.7
 
 - Change colors
