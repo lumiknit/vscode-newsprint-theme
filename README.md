@@ -5,6 +5,7 @@ Simple monochrome color theme for VS Code
 - newsprint: Original monochrome theme
 - newsprint-c: monochrome theme with colored editor
 - newsprint-cb: monochrome theme with colored editor and border as high contrast
+- newsprint-invert: Dark monochrome theme
 
 ## Sample
 
