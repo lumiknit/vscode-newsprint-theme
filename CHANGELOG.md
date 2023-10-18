@@ -4,6 +4,10 @@ All notable changes to the "newsprint" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.10
+
+- Correct some colors in dark mode
+
 ## 0.0.9
 
 - Add dark monochrome theme `newsprint-invert`
