@@ -2,7 +2,7 @@
 	"name": "newsprint",
 	"displayName": "newsprint",
 	"description": "Simple monochrome color theme",
-	"version": "0.0.10",
+	"version": "0.0.11",
 	"publisher": "lumiknit",
 	"engines": {
 		"vscode": "^1.60.0"
@@ -32,6 +32,11 @@
 				"path": "./themes/newsprint-cb-color-theme.json"
 			},
 			{
+				"label": "newsprint-so",
+				"uiTheme": "vs",
+				"path": "./themes/newsprint-so-color-theme.json"
+			},
+			{
 				"label": "newsprint-invert",
 				"uiTheme": "vs",
 				"path": "./themes/newsprint-invert-color-theme.json"
@@ -46,7 +51,7 @@
 		"isApplicationScoped": false,
 		"updated": true,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1696929518952,
+		"installedTimestamp": 1697598293521,
 		"preRelease": false
 	}
 }
