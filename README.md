@@ -16,3 +16,11 @@ Simple monochrome color theme for VS Code
 ### newsprint-c (colored)
 
 ![Image](https://raw.githubusercontent.com/lumiknit/vscode-newsprint-theme/master/sample-c.png)
+
+### newsprint-so (StackOverflow style)
+
+![Image](https://raw.githubusercontent.com/lumiknit/vscode-newsprint-theme/master/sample-so.png)
+
+### newsprint-inverted (dark)
+
+![Image](https://raw.githubusercontent.com/lumiknit/vscode-newsprint-theme/master/sample-i.png)
