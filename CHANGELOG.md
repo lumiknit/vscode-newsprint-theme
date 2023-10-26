@@ -4,6 +4,14 @@ All notable changes to the "newsprint" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.12
+
+- Correct terminal colors for stack-like theme
+
+## 0.0.11
+
+- Add stack-like theme
+
 ## 0.0.10
 
 - Correct some colors in dark mode

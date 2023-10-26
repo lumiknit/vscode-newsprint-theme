@@ -1,8 +1,8 @@
 {
 	"name": "newsprint",
 	"displayName": "newsprint",
-	"description": "Simple monochrome color theme",
-	"version": "0.0.11",
+	"description": "Simple monochrome color theme & variatns",
+	"version": "0.0.12",
 	"publisher": "lumiknit",
 	"engines": {
 		"vscode": "^1.60.0"
